@@ -1,6 +1,14 @@
 # Fast kit deployment html, css, javascript, scss, sass
 
-Hi ! This is my first project template.
+![made with](https://img.shields.io/badge/made%20with-HTML5-orange?labelColor=gray&style=flat-square)
+![made with](https://img.shields.io/badge/made%20with-CSS3-blue?labelColor=gray&style=flat-square)
+![made with](https://img.shields.io/badge/made%20with-JavaScript-yellow?labelColor=gray&style=flat-square)
+![made with](https://img.shields.io/badge/made%20with-SASS-ea8cb9?labelColor=gray&style=flat-square)
+![NO FRAMEWORK](https://img.shields.io/badge/NO%20FRAMEWORK-red?style=flat-square)
+
+
+
+Hi ! This is my first project starter pack template.
 Use this repository to build your new beautiful website or app project !
 
 I made this repository with the write logic of BEM. More info in this [BEM link](https://css-tricks.com/bem-101/)
@@ -61,7 +69,7 @@ npm sass --version
     - npm run sass
 
 
-ENJOY CODING ! ;-)
+ENJOY CODING ! :smile:
 
 <div id="enjoy" align="center">
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
